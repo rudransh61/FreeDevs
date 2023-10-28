@@ -27,5 +27,6 @@ Frameworks and technologies are always changing because we want to make things b
 
 We welcome contributions from the community! If you have ideas for improvements or want to report issues, check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
+#You can also add "freedevs" topic in your repository to join your project with our community
 
 Thank you for choosing FreeDevs for your development needs! Happy coding!
