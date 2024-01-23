@@ -3,6 +3,13 @@
 
 ![FreeDevs Logo](logo.png)
 
+## Our projects :
+| S. No. | Project Name | Language    | Stars |
+|-------|--------------|-------------|-------|
+| 1     | NextGenCSS   | CSS or SCSS | 7     |
+| 2     | SeniorDev. ai | Python      | 1     |
+
+
 ## Introduction
 
 Welcome to FreeDevs, where we are dedicated to transforming the developer experience. Our mission is simple: to empower developers with innovative technologies and frameworks that make coding more intuitive, enjoyable, and efficient.
@@ -17,7 +24,7 @@ Our mission is to join every type of coder across the universe where we create n
 ## Suggestions 💡
 
 Suggest new ideas to create in issues section with your username .
-And we will try to complete it. Not only me , we will contribute to make development easier with every tech stack .
+And we will try to complete it.   Not only me , we will contribute to make development easier with every tech stack .
 
 ## But why new tech ?  ¯\_(ツ)_/¯
 
