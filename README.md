@@ -6,9 +6,9 @@
 ## Our projects :
 | S. No. | Project Name | Language    | Stars |
 |-------|--------------|-------------|-------|
-| 1     | NextGenCSS   | CSS or SCSS | 7     |
+| 1     | NextGenCSS   | CSS or SCSS | 10     |
 | 2     | SeniorDev. ai | Python      | 1     |
-
+| 3     | Tortoys.ty   | Tortoys (over py and turtle graphics) | 1  |
 
 ## Introduction
 
