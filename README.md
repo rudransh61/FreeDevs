@@ -9,6 +9,7 @@
 | 1     | NextGenCSS   | CSS or SCSS | 10     |
 | 2     | SeniorDev. ai | Python      | 1     |
 | 3     | Tortoys.ty   | Tortoys (over py and turtle graphics) | 1  |
+| 4     | GSSG.go   | GSSG (GoLang Static Site Generator) | 1  |
 
 ## Introduction
 
