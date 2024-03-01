@@ -1,7 +1,9 @@
 # FreeDevs 🔥
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-![FreeDevs Logo](logo.png)
+<div align="center">
+  <img "./logo.png" width="200">
+</div>
 
 ## Our projects :
 | S. No. | Project Name | Language    | Stars |
@@ -9,7 +11,8 @@
 | 1     | NextGenCSS   | CSS or SCSS | 10     |
 | 2     | SeniorDev. ai | Python      | 1     |
 | 3     | Tortoys.ty   | Tortoys (over py and turtle graphics) | 1  |
-| 4     | GSSG.go   | GSSG (GoLang Static Site Generator) | 1  |
+| 4     | GSSG.go   | Go | 1  |
+| 5     | Traphix.go   | Go | 1  |
 
 ## Introduction
 
